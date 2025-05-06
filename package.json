@@ -1,0 +1,22 @@
+{
+  "name": "wheather-api",
+  "version": "1.0.0",
+  "description": "Desenvolver a API de Clima com Node.js e Express. A ideia é construir uma API backend que consome dados de uma API externa (como a OpenWeather) e retorna informações do clima com base na cidade consultada.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardmenezes10/Wheather-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardmenezes10/Wheather-API/issues"
+  },
+  "homepage": "https://github.com/richardmenezes10/Wheather-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
